@@ -1,0 +1,3 @@
+New file .
+
+Added this file in the stagging area.
